@@ -1,0 +1,41 @@
+2016-11-28 03:45:40 INFO  Server:33 - Chat started!
+2016-11-28 03:45:46 INFO  Customer:48 - Write your login: 
+2016-11-28 03:45:49 INFO  Customer:67 - Write one of comands:
+2016-11-28 03:45:49 INFO  Customer:68 - 	getmessages
+2016-11-28 03:45:49 INFO  Customer:69 - 	activeusers
+2016-11-28 03:45:49 INFO  Customer:70 - 	disconnect
+2016-11-28 03:45:49 INFO  Server:50 - max connected
+2016-11-28 03:45:59 INFO  Customer:48 - Write your login: 
+2016-11-28 03:46:03 INFO  Customer:67 - Write one of comands:
+2016-11-28 03:46:03 INFO  Customer:68 - 	getmessages
+2016-11-28 03:46:03 INFO  Customer:69 - 	activeusers
+2016-11-28 03:46:03 INFO  Customer:70 - 	disconnect
+2016-11-28 03:46:03 INFO  Customer:127 - SYSTEM >> Your login is same with another Customer in Chat. Your new login is max[1]
+2016-11-28 03:46:03 INFO  Customer:127 - SYSTEM >> max[1] has entered to school chat!
+2016-11-28 03:46:03 INFO  Server:50 - max[1] connected
+2016-11-28 03:46:15 INFO  Server:112 - max[1] required active users
+2016-11-28 03:46:15 INFO  Server:114 - 	[max, max[1]]
+2016-11-28 03:46:15 INFO  Customer:127 - SYSTEM >> [max, max[1]]
+2016-11-28 03:46:24 INFO  Customer:107 - Для отправления сообщения введите "Имя пользователя">>"сообщение"
+2016-11-28 03:46:33 INFO  Server:133 - From max[1] to max:
+	hi
+2016-11-28 03:46:33 INFO  Customer:127 - max[1] >> hi
+2016-11-28 03:46:46 INFO  Server:106 - max required his messages
+2016-11-28 03:46:46 INFO  Server:108 - 	[max[1] >> hi]
+2016-11-28 03:46:46 INFO  Customer:127 - SYSTEM >> [max[1] >> hi]
+2016-11-28 03:47:50 INFO  Server:133 - From max[1] to max:
+	HEllow
+2016-11-28 03:47:50 INFO  Customer:127 - max[1] >> HEllow
+2016-11-28 03:48:09 ERROR Customer:130 - Reading from server finished: java.net.SocketException: Connection reset
+2016-11-28 03:48:09 ERROR Customer:130 - Reading from server finished: java.net.SocketException: Connection reset
+2016-11-28 03:48:59 INFO  Server:33 - Chat started!
+2016-11-28 03:49:01 INFO  Customer:48 - Write your login: 
+2016-11-28 03:49:08 INFO  Customer:67 - Write one of comands:
+2016-11-28 03:49:08 INFO  Customer:68 - 	getmessages
+2016-11-28 03:49:08 INFO  Customer:69 - 	activeusers
+2016-11-28 03:49:08 INFO  Customer:70 - 	disconnect
+2016-11-28 03:49:08 INFO  Server:50 - nik1 connected
+2016-11-28 03:49:19 INFO  Server:112 - nik1 required active users
+2016-11-28 03:49:19 INFO  Server:114 - 	[nik1]
+2016-11-28 03:49:19 INFO  Customer:127 - SYSTEM >> [nik1]
+2016-11-28 03:49:30 ERROR Customer:130 - Reading from server finished: java.net.SocketException: Connection reset

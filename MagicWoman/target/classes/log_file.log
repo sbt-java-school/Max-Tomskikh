@@ -1,0 +1,34 @@
+2016-11-28 02:31:48 INFO  MagicWoman:32 - Start MagicWoman
+2016-11-28 02:31:50 INFO  Customer:27 - Welcome to our MagicPlace
+2016-11-28 02:31:50 INFO  Customer:55 - Guess the number
+2016-11-28 02:31:53 INFO  Customer:55 - Bigger
+2016-11-28 02:31:54 INFO  Customer:55 - Bigger
+2016-11-28 02:31:55 INFO  Customer:55 - Bigger
+2016-11-28 02:31:55 INFO  Customer:55 - Good work!!!
+2016-11-28 02:31:55 INFO  Customer:55 - Next Number!
+2016-11-28 02:31:57 INFO  Customer:55 - Bigger
+2016-11-28 02:31:57 INFO  Customer:55 - Good work!!!
+2016-11-28 02:31:57 INFO  Customer:55 - Next Number!
+2016-11-28 02:31:58 INFO  Customer:55 - Bigger
+2016-11-28 02:31:58 INFO  Customer:55 - Bigger
+2016-11-28 02:31:59 INFO  Customer:55 - Bigger
+2016-11-28 02:31:59 INFO  Customer:55 - Less
+2016-11-28 02:31:59 INFO  Customer:55 - Less
+2016-11-28 02:31:59 INFO  Customer:55 - Less
+2016-11-28 02:32:00 INFO  Customer:55 - Less
+2016-11-28 02:32:01 INFO  Customer:55 - Less
+2016-11-28 02:32:01 INFO  Customer:55 - Bigger
+2016-11-28 02:32:02 INFO  Customer:55 - Bigger
+2016-11-28 02:32:04 INFO  Customer:55 - Bigger
+2016-11-28 02:32:05 INFO  Customer:55 - Bigger
+2016-11-28 02:32:06 INFO  Customer:55 - Bigger
+2016-11-28 02:32:06 INFO  Customer:55 - Bigger
+2016-11-28 02:32:07 INFO  Customer:55 - Bigger
+2016-11-28 02:32:08 INFO  Customer:55 - Bigger
+2016-11-28 02:32:09 INFO  Customer:55 - Bigger
+2016-11-28 02:32:12 INFO  Customer:55 - Good work!!!
+2016-11-28 02:32:12 INFO  Customer:55 - Next Number!
+2016-11-28 02:32:17 ERROR Customer:58 - java.net.SocketException: Connection reset
+2016-11-28 04:20:37 INFO  MagicWoman:32 - Start MagicWoman
+2016-11-28 04:20:39 INFO  Customer:27 - Welcome to our MagicPlace
+2016-11-28 04:20:39 INFO  Customer:55 - Guess the number
